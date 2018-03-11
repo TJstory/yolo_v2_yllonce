@@ -1,0 +1,8 @@
+classes= 20
+train  = /home/tramsys/Desktop/darknet/scripts/2012_train.txt
+valid  = /home/tramsys/Desktop/darknet/scripts/2012_val.txt
+//train  = /home/tramsys/Desktop/darknet/scripts/2007_train.txt
+//valid  = /home/tramsys/Desktop/darknet/scripts/2007_test.txt
+names = data/voc.names
+backup = backup
+
